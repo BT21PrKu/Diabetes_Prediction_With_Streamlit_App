@@ -71,6 +71,11 @@ A Streamlit app was created to provide an interactive interface for diabetes pre
 - **Real-Time Prediction**: After entering details, users can click "Predict" to see whether they are predicted to be diabetic or non-diabetic.
 - **Visualization**: The app includes basic dataset information, summary statistics, and a distribution of diabetic vs. non-diabetic cases.
 
+### App Screen-Shots
+![image](https://github.com/user-attachments/assets/d7b3f295-31a8-4210-b9d4-56ac1b807be8)
+![image](https://github.com/user-attachments/assets/e6784d41-6b44-4f68-8a45-7be572cc9caf)
+![image](https://github.com/user-attachments/assets/9d1dbd51-cc87-4c81-9e76-8305eaeb82c1)
+
 ## Technologies Used
 
 - **Python** (for data preprocessing, model building, and analysis)
