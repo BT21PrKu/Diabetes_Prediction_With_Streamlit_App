@@ -9,7 +9,7 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import classification_report, confusion_matrix, f1_score, precision_score, recall_score
 
-st.write("##Diabetes Prediction APP")
+st.write("# Diabetes Prediction App")
 
 # Load and display data
 @st.cache
